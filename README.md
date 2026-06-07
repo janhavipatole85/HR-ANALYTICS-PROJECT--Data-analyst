@@ -21,6 +21,7 @@ The primary objective of this project is to:
 - Power BI Dashboard
 - Tableau Dashboard
 - Dashboard Screenshots
+- HR ANALYTICS (dataset) 
 
 ## 📊 Key KPIs
 - Total Employees
